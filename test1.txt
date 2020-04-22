@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E6DA-326B
+
+ Directory of C:\Users\chitr\Desktop\TAMUK\ComputerScience\SoftwareEngineering1\Test
+
+04/22/2020  02:44 PM    <DIR>          .
+04/22/2020  02:44 PM    <DIR>          ..
+04/22/2020  02:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,540,657,664 bytes free
